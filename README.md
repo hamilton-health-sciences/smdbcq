@@ -26,4 +26,4 @@ for _ in range(numsteps):
 
 ## See also
 
-Our application of this model to [warfarin dosing](https://github.com/hamilton-health-sciences/warfarin) (*under review*) and [experiments](https://github.com/mary-wu/smdp) validating its estimation of the SMDP](https://github.com/mary-wu/smdp) validating its estimation of the SMDP (CHIL 2022).
+Our application of this model to [warfarin dosing](https://github.com/hamilton-health-sciences/warfarin) (*under review*) and [experiments](https://github.com/mary-wu/smdp) validating its estimation (CHIL 2022).
