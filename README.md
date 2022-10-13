@@ -6,7 +6,7 @@ This repository contains an installable version of the SMDP-BCQ model.
 
 The model has been tested using Python 3.9 and PyTorch 1.9. To install using Pip:
 
-    $ python3 -m pip install smdbcq
+    $ python3 -m pip install pytorch_smdbcq
 
 ## Demo
 
